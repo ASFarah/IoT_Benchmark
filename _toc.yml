@@ -1,0 +1,15 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: README.md
+options:  
+  numbered: True
+
+chapters:
+- file: AR_apps.ipynb
+- file: Health.ipynb
+- file: Surveillance.ipynb
+- file: Gaming.ipynb
+- file: SHSC.ipynb
+- file: Other_apps.ipynb
